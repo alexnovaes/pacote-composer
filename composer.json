@@ -1,0 +1,15 @@
+{
+    "name": "alexnovaes/pacotes-composer",
+    "authors": [
+        {
+            "name": "Alex Novaes",
+            "email": "alexscnovaes@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "AlexNovaes\\": "src"
+        }
+    }
+}
